@@ -5,7 +5,8 @@
     <hr>
 
     <h4>Built with pipeline - Rajp</h4>
-    <br><br><hr>
+    <p>added new line</p>
+    <hr>
     <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
